@@ -6,6 +6,7 @@ Learning world of game programming with Python.
 ```python
 # clone a repository into a new directory
 $ git clone https://github.com/kushkota/GameProgramming1.git
+```
 
 Soccer
 ```python
